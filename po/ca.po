@@ -36,15 +36,15 @@ msgstr "Posició de la finestra (x i y)."
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:5
 msgid "Mini player size"
-msgstr ""
+msgstr "Mida del reproductor mini"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:6
 msgid "Mini player position"
-msgstr ""
+msgstr "Posició del reproductor mini"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:7
 msgid "Repeat by default"
-msgstr ""
+msgstr "Repeteix per defecte"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:8
 msgid "Window maximized"
@@ -56,11 +56,11 @@ msgstr "Estat maximitzat de la finestra."
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:10
 msgid "Enabled genres in party mode"
-msgstr ""
+msgstr "Activa gèneres en mode festa"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:11
 msgid "Ids for genres."
-msgstr ""
+msgstr "Ids per gèneres"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:12
 msgid "Music paths"
@@ -72,11 +72,11 @@ msgstr "Quan sigui buit, utilitza XDG_MUSIC_DIR"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:14
 msgid "Last.fm login"
-msgstr ""
+msgstr "Inici sessió Last.fm"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:15
 msgid "Favorite tag editor"
-msgstr ""
+msgstr "Editor d'etiquetes preferit "
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:16
 msgid "INTERNAL"
@@ -84,15 +84,15 @@ msgstr "INTERN"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:17
 msgid "Favorite cover file"
-msgstr ""
+msgstr "Fitxer de caràtula preferit"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:18
 msgid "Restart needed"
-msgstr ""
+msgstr "Cal reiniciar"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:19
 msgid "Database version"
-msgstr ""
+msgstr "Versió de la base de dades"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:20
 msgid ""
@@ -101,31 +101,31 @@ msgstr ""
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:21 ../data/SettingsDialog.ui.h:7
 msgid "Albums cover size"
-msgstr ""
+msgstr "Mida de caràtula d'àlbum"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:22
 msgid "Replay gain value in db"
-msgstr ""
+msgstr "Valor de guanyança de Replay en db"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:23
 msgid "Between -15 and 15"
-msgstr ""
+msgstr "Entre -15 i 15"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:24
 msgid "Sync all albums(MTP)"
-msgstr ""
+msgstr "Sincronitza tots els àlbums (MTP)"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:25
 msgid "Convert to MP3(MTP)"
-msgstr ""
+msgstr "Converteix a MP3(MTP)"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:26 ../data/SettingsDialog.ui.h:10
 msgid "Auto update music"
-msgstr ""
+msgstr "Actualitza música automaticament"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:27
 msgid "Show genres list"
-msgstr ""
+msgstr "Mostra llista de gèneres"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:28
 msgid "Use dark gtk theme"
@@ -137,39 +137,39 @@ msgstr ""
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:30 ../data/SettingsDialog.ui.h:6
 msgid "Show compilations in albums view"
-msgstr ""
+msgstr "Mostra compilacions en la finestra d'àlbums"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:31 ../data/SettingsDialog.ui.h:12
 msgid "Continue playback when closed"
-msgstr ""
+msgstr "Continua sonant quan es tanqui"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:32
 msgid "Restore previous state"
-msgstr ""
+msgstr "Restableix estat anterior"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:33
 msgid "Disable MPRIS"
-msgstr ""
+msgstr "Desactiva MPRIS"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:34
 msgid "Disable notifications"
-msgstr ""
+msgstr "Desactiva notificacions"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:35
 msgid "Show track number from tags"
-msgstr ""
+msgstr "Mostra número de pista de les etiquetes"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:36 ../data/SettingsDialog.ui.h:13
 msgid "Mix songs"
-msgstr ""
+msgstr "Mescla cançons"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:37
 msgid "Mix songs only in party mode"
-msgstr ""
+msgstr "Mescla cançons només en mode festa"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:38
 msgid "Mix duration"
-msgstr ""
+msgstr "Durada de la mescla"
 
 #: ../data/org.gnome.Lollypop.gschema.xml.h:39
 msgid "Shuffle mode"
@@ -189,7 +189,7 @@ msgstr "Reproduïu i organitzeu la vostra col·lecció musical"
 
 #: ../data/lollypop.desktop.in.h:4
 msgid "Play/Pause"
-msgstr ""
+msgstr "Play/Pausa"
 
 #: ../data/lollypop.desktop.in.h:5 ../src/notification.py:78
 #: ../data/ToolbarPlayback.ui.h:3
@@ -203,15 +203,15 @@ msgstr "Anterior"
 
 #: ../data/lollypop.appdata.xml.in.h:3
 msgid "Lollypop is a new GNOME music playing application."
-msgstr ""
+msgstr "Lollypop és una aplicació nova del GNOME per reproduir música"
 
 #: ../data/lollypop.appdata.xml.in.h:4
 msgid "It provides:"
-msgstr ""
+msgstr "Procedència:"
 
 #: ../data/lollypop.appdata.xml.in.h:5
 msgid "mp3/4, ogg and flac playback"
-msgstr ""
+msgstr "reproducció de mp3/4, ogg i flac"
 
 #: ../data/lollypop.appdata.xml.in.h:6
 msgid "Genre/Cover browsing"
@@ -239,11 +239,11 @@ msgstr "Mode festa"
 
 #: ../data/lollypop.appdata.xml.in.h:11
 msgid "Replay gain"
-msgstr ""
+msgstr "Guanyança Replay"
 
 #: ../data/lollypop.appdata.xml.in.h:12
 msgid "Cover art downloader"
-msgstr ""
+msgstr "Baixada de caràtules"
 
 #: ../data/lollypop.appdata.xml.in.h:13
 msgid "Context artist view"
@@ -251,11 +251,11 @@ msgstr ""
 
 #: ../data/lollypop.appdata.xml.in.h:14
 msgid "MTP sync"
-msgstr ""
+msgstr "Sincronitza MTP"
 
 #: ../data/lollypop.appdata.xml.in.h:15
 msgid "Fullscreen view"
-msgstr ""
+msgstr "Mode  "
 
 #: ../data/lollypop.appdata.xml.in.h:16
 msgid "Radios support"
